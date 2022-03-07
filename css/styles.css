@@ -1,0 +1,33 @@
+body {
+	background-color: #EEEEEE;
+	margin: 0;
+}
+h1{
+	margin-top: 0;
+}
+/* CSS Document */
+div{
+	
+}
+.top {
+	background: #1C658C;
+	text-align: center;
+}
+
+.middle {
+	background: #398AB9
+}
+
+.bottom {
+	
+}
+.clo {
+	position: relative;
+	left: 212px;
+	top: 50px;
+}
+.clo2 {
+	position: relative;
+	right: 230px;
+	top: 200px;
+}
